@@ -39,6 +39,23 @@
     <!-- Expose Phone Info -->
     <string name="device_info_title">Phone info</string>
 
+    <!-- NFC PreferenceCategory title -->
+    <string name="nfc_title_category">NFC</string>
+
+    <!-- About phone screen, FireHound version -->
+    <string name="mod_version">FireHound version</string>
+    <string name="mod_version_default">1.0</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Set</string>
+    <string name="color_default">Default</string>
+
     <!-- Toast Icons -->
     <string name="toast_icon_title">Toast icon</string>
     <string name="toast_icon_summary">Display the app icon corresponding with the toast</string>
